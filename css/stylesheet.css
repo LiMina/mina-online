@@ -1,0 +1,196 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	color: #BBB;
+	text-align: center;
+	padding:0;
+	margin:0;
+}
+
+body {
+	background-color: #333;
+}
+
+h1 {
+	font-size: 50px;
+	word-spacing: 10px;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 30px;
+	word-spacing: 8px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+	margin:auto;
+	padding-bottom: 20px;
+}
+
+/* NAV BAR */
+
+footer {
+	padding-top: 10px;
+	background-color: rgba(255, 255, 255, 0.3);
+	width: 100%;
+	text-align: center;
+	position: fixed;
+	bottom:0px;
+	z-index: 50;
+}
+
+footer ul {
+	height: 90px;
+}
+
+footer ul li {
+	padding: 3px;
+	list-style: none;
+	margin-bottom: 10px;
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+	margin: 5px;
+	width: 90px;
+	height: 90px;
+	vertical-align: bottom;
+	overflow: hidden;
+}
+
+footer ul li:nth-child(1) {
+	background: url(../img/purple-circle-m.png) center top;
+	padding-top:20px;
+}
+
+footer ul li:nth-child(2) {
+	background: url(../img/blue-circle-m.png) center top;
+	padding-top:20px;
+}
+
+footer ul li:nth-child(3) {
+	background: url(../img/green-circle-m.png) center top;
+	padding-top: 30px;
+}
+
+footer ul li:nth-child(4) {
+	background: url(../img/orange-circle-m.png) center top;
+	padding-top: 20px;
+}
+
+/*
+footer ul li:nth-child(1) {
+	background-color: #7C10D7;
+}
+
+footer ul li:nth-child(2) {
+	background-color: #0000DA;
+}
+
+footer ul li:nth-child(3) {
+	background-color: #109210;
+}
+
+footer ul li:nth-child(4) {
+	background-color: #EF8300;
+}
+*/
+
+footer ul a {
+	color: #FFF;
+}
+
+footer ul li div {
+	padding-left: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70px;
+}
+
+footer ul a:hover {
+	color: #DDD;
+	text-decoration: underline;
+}
+
+footer ul a:focus {
+	color: #FFF;
+}
+
+/* SPLASH PANEL */
+
+div#splash img {
+	width: 75%;
+	height: auto;
+}
+
+#splash {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:20px;
+}
+
+#splash IMG {
+    position:absolute;
+    right:0;
+    left:0;
+    margin-left: auto;
+    margin-right: auto;
+    z-index:8;
+    opacity:0.0;
+}
+
+#splash IMG.active {
+    z-index:10;
+    opacity: 0.0;
+}
+
+#splash IMG.last-active {
+	z-index:9;
+}
+
+/* SECTIONING */
+
+section {
+	background-color: #000;
+	min-height: 100vh;
+	margin-bottom: 300px;
+	padding: 20px 50px 20px 50px;
+}
+
+section#home {
+	position: relative;
+}
+
+section#about-me {
+	position: relative;
+	text-align: left;
+	background-color: rgba(124, 16, 215, 0.2);
+}
+
+section#about-me div#me-text {
+	float:left;
+	width: 50%;
+}
+
+section#about-me div#face {
+	float: right;
+}
+
+section#contact-me {
+	text-align: left;
+	background-color: rgba(0, 0, 218, 0.2);
+}
+
+section#code {
+	text-align: left;
+	background-color: rgba(16, 146, 16, 0.2);
+}
+
+section#art {
+	text-align: left;
+	background-color: rgba(239, 131, 0, 0.2);
+}

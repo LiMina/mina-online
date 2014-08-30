@@ -1,0 +1,122 @@
+.content {
+	height:100%;
+	min-height:100%;
+	padding-bottom:152px;
+}
+
+/* NAV BAR */
+
+footer {
+	background-color: rgba(0,0,0,0);
+	width: 100%;
+	color: #FFF;
+	position: fixed;
+    bottom:0;
+    left:0;
+    margin-bottom:30px;
+    height:90px;   /* Height of the footer */
+    z-index:50;
+}
+
+footer ul {
+	height: 130px;
+	padding: 0;
+	margin: 0;
+	list-style: inline-block;
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+footer ul li {
+	padding: 0px;
+	background-color: rgba(0,0,0,0);
+	list-style: none;
+	display: inline-block;
+	font-size: 15px;
+	text-align: center;
+	margin: 20px;
+	width: 90px;
+	height: 90px;
+	padding-top: 22px;
+	vertical-align: bottom;
+}
+
+footer ul li div {
+	width: 70px;
+	margin-right:auto;
+	margin-left: auto;
+	padding-left:0px;
+}
+
+footer ul li:nth-child(1) {
+	background: url(../img/purple-circle-m.png) center top;
+	padding-top:30px;
+}
+
+footer ul li:nth-child(2) {
+	background: url(../img/blue-circle-m.png) center top;
+}
+
+footer ul li:nth-child(3) {
+	background: url(../img/green-circle-m.png) center top;
+	padding-top: 30px;
+}
+
+footer ul li:nth-child(4) {
+	background: url(../img/orange-circle-m.png) center top;
+}
+
+/* SPLASH PANEL */
+
+div#splash img {
+	width: 75%;
+	height: auto;
+}
+
+#splash {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:20px;
+}
+
+#splash IMG {
+    position:absolute;
+    right:0;
+    left:0;
+    margin-left: auto;
+    margin-right: auto;
+    z-index:8;
+    opacity:0.0;
+}
+
+#splash IMG.active {
+    z-index:10;
+    opacity: 0.0;
+}
+
+#splash IMG.last-active {
+	z-index:9;
+}
+
+
+/* SECTIONING */
+
+section#about-me {
+	padding: 20px 50px 20px 50px;
+	position: relative;
+	height: auto;
+}
+
+section#about-me div#me-text {
+	float:left;
+	width: 100%;
+	padding-bottom: 50px;
+}
+
+section#about-me div#face {
+	float: none;
+	padding-left: auto;
+	padding-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
