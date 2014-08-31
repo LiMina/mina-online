@@ -109,8 +109,30 @@ section#about-me {
 
 section#about-me div#me-text {
 	float:left;
+	width: 50%;
 }
 
 section#about-me div#face {
 	float: right;
+}
+
+section#contact-me div#zen {
+	text-align: right;
+}
+
+section#contact-me img {
+	width: 50%;
+	height: 50%;
+}
+
+section#code div#example img {
+	float: left;
+	width:40%;
+	height:40%;
+}
+
+section#code div#qualifications {
+	float:right;
+	text-align: left;
+	width: 50%;
 }

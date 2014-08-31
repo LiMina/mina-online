@@ -30,6 +30,15 @@ h2 {
 	padding-bottom: 20px;
 }
 
+h3 {
+	font-size: 20px;
+	word-spacing: 5px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	margin:auto;
+	padding: 15px 0 15px 0;
+}
+
 /* NAV BAR */
 
 footer {
@@ -173,11 +182,16 @@ section#about-me {
 
 section#about-me div#me-text {
 	float:left;
-	width: 50%;
+	width: 100%;
+	padding-bottom: 50px;
 }
 
 section#about-me div#face {
-	float: right;
+	float: none;
+	padding-left: auto;
+	padding-right: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 section#contact-me {
@@ -185,9 +199,44 @@ section#contact-me {
 	background-color: rgba(0, 0, 218, 0.2);
 }
 
+section#contact-me div#zen {
+	text-align: left;
+}
+
+section#contact-me img {
+	padding-top: 10px;
+	width: 100%;
+	height: 100%;
+}
+
 section#code {
 	text-align: left;
 	background-color: rgba(16, 146, 16, 0.2);
+}
+
+section#code a {
+	color: #36c136;
+}
+
+section#code a:hover {
+	text-decoration: underline;
+	color: #FFF;
+}
+
+section#code div#example img {
+	float: none;
+	width:100%;
+	height:100%;
+}
+
+section#code div#qualifications {
+	float:none;
+	text-align: left;
+	width: 100%;
+}
+
+section#code div#qualifications ul {
+	padding-left:20px;
 }
 
 section#art {
