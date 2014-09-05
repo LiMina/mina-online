@@ -1,0 +1,69 @@
+<html>
+  <!DOCTYPE html>
+<head> 
+  <title>mina li | code | heatmaps</title>
+  <meta name="author" content="Mina Li" />
+  <meta name="description" content="Mina Li | Code" />
+</head>
+    <link type="text/css" rel="stylesheet" href="../stylesheet.css" />
+    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript'>
+     google.load('visualization', '1', {'packages': ['geochart']});
+     google.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+          ['State', 'Count'],
+          ['US-AK', 51],
+          ['US-AZ', 112],
+          ['US-CA', 992],
+          ['US-CO', 181],
+          ['US-HI', 34],
+          ['US-ID', 34],
+          ['US-MT', 29],
+          ['US-NV', 58],
+          ['US-NM', 33],
+          ['US-OR', 201],
+          ['US-UT', 145],
+          ['US-WA', 231],
+          ['US-WY', 18]
+        ]);
+
+        var options = {
+          region: 'US',
+          displayMode: 'regions',
+          colorAxis: {colors: ['rgb(127,127,127)', 'rgb(234,137,45)']},
+          resolution: 'provinces',
+          backgroundColor: {
+          'stroke': 'black',
+          'strokeWidth': 1} 
+        };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+    };
+    </script>
+  <body>
+    <div class="head">
+    mina li, uc berkeley, computer science ba 201x<br>
+    <ul>
+      <li><a href="../Online-Portfolio.html">home</a></li>
+      <li><a href="../about-me.html">about me</a></li>
+      <li><a href="../contact-me.html">contact me</a></li>
+      <li><a href="../code.html">code</a></li>
+      <li><a href="../music.html">music</a></li>
+      <li><a href="../drawings.html">drawings</a></li>
+      <li><a href="../writings.html">writings</a></li>
+      <li><a href="../photography.html">photography</a></li>
+      <li><a href="../modeling.html">modeling</a></li></div><br>
+    </ul>
+  </div>
+
+  <div class="wrap2">
+    <a href="heatmap-1.html"><h1>heatmap two</h1></a><br>
+      <div id="chart_div" style="width: 1125px; height: 625px;"></div>
+    </div>
+
+    <div class="footer"><a href="../sitemap.html">sitemap</a></div>
+  </body>
+</html>
