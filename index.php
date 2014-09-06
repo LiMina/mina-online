@@ -113,12 +113,36 @@
 
 		<section id="art">
 			<h2>Art</h2>
-			Art.
+			<div class="container-fluid">
+				<div class="row">
+					<div class="pbox col-xs-5">
+						<h4>Drawings</h4>
+						<img class="art" src="img/assorted-art/drawings/3.jpg" />
+					</div>
+					<div class="col-xs-2"></div>
+					<div class="pbox col-xs-5">
+						<h4>Photos</h4>
+						<img class="art" src="img/assorted-art/photos/6.JPG" />
+					</div>
+				</div>
+				<div class="row">
+					<div class="pbox col-xs-5">
+						<h4>Self Portraits</h4>
+						<img class="art" src="img/assorted-art/self-portraits/0.jpg" />
+					</div>
+					<div class="col-xs-2"></div>
+					<div class="pbox col-xs-5">
+						<h4>Modeling</h4>
+						<img class="art" src="img/assorted-art/modeling/7.jpg" />
+					</div>
+				</div>
+			</div>
 		</section>
 
 	</div>
 
-
+	<div class="overlay">
+	</div>
 
 	<footer>
 		<ul>
