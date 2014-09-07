@@ -49,7 +49,7 @@
 				<br /><br />
 				So who am I?
 				<br /><br />
-				My name is Mina Li. I am a third-year Computer Science major in Unversity of California, and am planning on graduating May 2015.
+				My name is Mina Li. I am a third-year Computer Science major in Unversity of California, Berkeley, and am planning on graduating May 2015.
 				Time passed a lot more quickly than I ever thought it would, and now I'm looking for a full-time position starting in the summer.
 				<br /><br />
 				Primarily, I'm interested in doing work that is personally and socially meaningful. I think technology has a great capabilities for changing 
@@ -117,23 +117,23 @@
 				<div class="row">
 					<div class="pbox col-xs-5">
 						<h4>Drawings</h4>
-						<img class="art" src="img/assorted-art/drawings/3.jpg" />
+						<img class="art" src="img/assorted-art/Drawings/3.jpg" />
 					</div>
 					<div class="col-xs-2"></div>
 					<div class="pbox col-xs-5">
 						<h4>Photos</h4>
-						<img class="art" src="img/assorted-art/photos/6.JPG" />
+						<img class="photos" src="img/assorted-art/Photos/6.JPG" />
 					</div>
 				</div>
 				<div class="row">
 					<div class="pbox col-xs-5">
 						<h4>Self Portraits</h4>
-						<img class="art" src="img/assorted-art/self-portraits/0.jpg" />
+						<img class="self-portraits" src="img/assorted-art/Self-Portraits/0.jpg" />
 					</div>
 					<div class="col-xs-2"></div>
 					<div class="pbox col-xs-5">
 						<h4>Modeling</h4>
-						<img class="art" src="img/assorted-art/modeling/7.jpg" />
+						<img class="modeling" src="img/assorted-art/Modeling/7.jpg" />
 					</div>
 				</div>
 			</div>
@@ -141,8 +141,7 @@
 
 	</div>
 
-	<div class="overlay">
-	</div>
+	<?php include('php/carousel.php'); ?>
 
 	<footer>
 		<ul>

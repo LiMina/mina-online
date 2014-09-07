@@ -11,3 +11,4 @@
 <script type="text/javascript" media='screen and (min-width:901px) and (max-width: 1300px)' src="js/nav-pulse.js"></script>
 <script type="text/javascript" src="js/scroller.js"></script>
 <script type="text/javascript" src="js/overlay.js"></script>
+<script type="text/javascript" src="js/carousel.js"></script>
