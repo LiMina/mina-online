@@ -72,7 +72,7 @@
 			<h3>Professional:</h3>
 			<strong>Email</strong> - <a href="mailto:li.mina888@berkeley.edu" target=_blank>li.mina888@berkeley.edu</a><br />
 			<strong>Phone</strong> - <a href="tel:7817715366" target=_blank>781-771-5366</a><br />
-			<strong>LinkedIn</strong> - <a href="http://www.linkedin.com/pub/mina-li/60/308/9a5/" target=_blank>Mina Li</a><br><br>
+			<strong>LinkedIn</strong> - <a href="http://www.linkedin.com/in/limina" target=_blank>Mina Li</a><br><br>
 			<h3>Personal Life:</h3>
 			<strong>Tumblr</strong> - <a href="http://beautyinyourlines.tumblr.com/" target=_blank>Beauty in Your Lines</a><br>
 			<div id="zen">
@@ -113,6 +113,7 @@
 
 		<section id="art">
 			<h2>Art</h2>
+			Under development.
 			<div class="container-fluid">
 				<div class="row">
 					<div class="pbox col-xs-5">
@@ -122,7 +123,7 @@
 					<div class="col-xs-2"></div>
 					<div class="pbox col-xs-5">
 						<h4>Photos</h4>
-						<img class="photos" src="img/assorted-art/Photos/6.JPG" />
+						<img class="photos" src="img/assorted-art/Photos/6.jpg" />
 					</div>
 				</div>
 				<div class="row">
