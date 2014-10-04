@@ -321,7 +321,7 @@ div#me-subpage div#floater {
 	background-color: rgba(174, 126, 215, 0.4);
 	width: 33%;
 	max-width: 500px;
-	height: 70px;
+	height: auto;
 	-moz-border-radius: 20px;
 	-webkit-border-radius: 20px;
 	border-radius: 20px;
