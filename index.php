@@ -147,10 +147,10 @@
 
 	<footer>
 		<ul>
-			<li class="pulse"><a href="#about-me"><div>About me</div></a></li>
-			<li class="pulse"><a href="#contact-me"><div>Contact me</div></a></li>
-			<li class="pulse"><a href="#code"><div>Code</div></a></li>
-			<li class="pulse"><a href="#art"><div>Assorted art</div></a></li>
+			<li class="pulse"><a class="p-link" href="#about-me"><div>About me</div></a></li>
+			<li class="pulse"><a class="p-link" href="#contact-me"><div>Contact me</div></a></li>
+			<li class="pulse"><a class="p-link" href="#code"><div>Code</div></a></li>
+			<li class="pulse"><a class="p-link" href="#art"><div>Assorted art</div></a></li>
 		</ul>
 		<div id="home"><a class="home" href="#home">Home.</a></div>
 	</footer>
