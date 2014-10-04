@@ -9,7 +9,7 @@ $( document ).ready( function() {
 		$next.addClass('c-show').removeClass('c-hide');
 	});
 	$(".c-left").click( function() {
-		var $num = $(".c-right").index(this);
+		var $num = $(".c-left").index(this);
 		var $show = $(".c-wrap:eq(" + $num + ") img.c-show");
 		if ( $show.length == 0 ) $show = $(".c-wrap:eq(" + $num + ") IMG:first");
 		var $prev = $show.prev().length ? $show.prev()

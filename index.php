@@ -80,6 +80,7 @@
 			<strong>InternMatch</strong> - <a href="http://profiles.internmatch.com/users/209310" target=_blank>Mina Li</a><br /><br />
 			<h3>Personal Life:</h3>
 			<strong>Tumblr</strong> - <a href="http://beautyinyourlines.tumblr.com/" target=_blank>Beauty in Your Lines</a><br>
+			<strong>Twitter</strong> - <a href="https://twitter.com/Mina_Online" target=_blank>@Mina_Online</a>
 			<div id="zen">
 				<img src="img/contact-me/zengarden-stone.jpg" />
 			</div>
@@ -108,6 +109,7 @@
 					<li>MIPS</li>
 					<li>Ida (specifically in <a href="http://www-inst.eecs.berkeley.edu/~cs61c/sp14/projs/04/manual.html">this project</a>)</li>
 					<li>MySQL</li>
+					<li>RoR</li>
 				</ul>
 			</div>
 			<div id="example">
