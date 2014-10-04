@@ -48,6 +48,16 @@ h4 {
 	padding-bottom: 10px;
 }
 
+h5 {
+	font-size: 14px;
+	word-spacing: 2px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin:auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
 div#hidden img {
 	display: none;
 }
@@ -248,6 +258,73 @@ section#about-me div#face img {
 	border-style: solid;
 	border-width: 2px;
 	border-color: rgb(124, 16, 215);
+}
+
+section#about-me a {
+	color: rgb(174, 126, 215);
+}
+
+section#about-me a:hover, section#about-me a:focus {
+	color: white;
+}
+
+/* about me - subpages */
+
+div#me-subpage {
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	text-align: left;
+	height: auto;
+	position: relative;
+	text-align: left;
+	background-color: rgba(124, 16, 215, 0.2);
+}
+
+div#me-subpage a {
+	color: rgb(174, 126, 215);
+}
+
+div#me-subpage a:hover, div#me-subpage a:focus {
+	color: white;
+}
+
+div#me-subpage div.class-title {
+	color: rgb(174, 126, 215);
+	font-weight: bold;
+}
+
+div#me-subpage div#class-toggle {
+	cursor: pointer;
+	color: rgb(174, 126, 215);
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+div#me-subpage div#class-toggle:hover {
+	color: white;
+	text-decoration: underline;
+}
+
+div#me-subpage div.other {
+	display: initial;
+}
+
+div#me-subpage div#floater {
+	text-align: center;
+	position: fixed;
+	top: 100px;
+	right: 50px;
+	margin-right: 100px;
+	padding: 15px;
+	background-color: rgba(174, 126, 215, 0.4);
+	width: 33%;
+	max-width: 500px;
+	height: 70px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
 }
 
 /* contact me */
