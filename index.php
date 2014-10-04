@@ -92,7 +92,7 @@
 		<section id="code">
 			<h2>Code</h2>
 			<div id="qualifications">
-				<strong>GibHub</strong> - <a href="https://github.com/LiMina" target=_blank>LiMina</a><br /><br />
+				<strong>GitHub</strong> - <a href="https://github.com/LiMina" target=_blank>LiMina</a><br /><br />
 				Unfortunately, most of my repositories are private because they're used for work purposes, but you can see 
 				this website on there.
 				<br /><br />
