@@ -1,7 +1,7 @@
 	<div class="overlay">
 		<div class="carousel">
 			<div class="c-left">&lt;</div>
-            <div class="c-wrap">
+            <div class="c-wrap draw">
                 <img class="c-show" src="img/assorted-art/Drawings/0.jpg" alt="">
                 <img class="c-hide" src="img/assorted-art/Drawings/1.png" alt="">
                 <img class="c-hide" src="img/assorted-art/Drawings/2.jpg" alt="">
@@ -29,7 +29,7 @@
         </div>
         <div class="carousel">
 			<div class="c-left">&lt;</div>
-            <div class="c-wrap">
+            <div class="c-wrap photo">
                 <img class="c-show" src="img/assorted-art/Photos/0.jpg" alt="">
                 <img class="c-hide" src="img/assorted-art/Photos/1.jpg" alt="">
                 <img class="c-hide" src="img/assorted-art/Photos/2.jpg" alt="">
@@ -69,7 +69,7 @@
         </div>
         <div class="carousel">
 			<div class="c-left">&lt;</div>
-            <div class="c-wrap">
+            <div class="c-wrap portrait">
                 <img class="c-show" src="img/assorted-art/Self-Portraits/0.jpg" alt="">
                 <img class="c-hide" src="img/assorted-art/Self-Portraits/1.jpg" alt="">
                 <img class="c-hide" src="img/assorted-art/Self-Portraits/2.jpg" alt="">
@@ -88,7 +88,7 @@
         </div>
         <div class="carousel">
             <div class="c-left">&lt;</div>
-            <div class="c-wrap">
+            <div class="c-wrap model">
                 <img class="c-show" src="img/assorted-art/Modeling/0.jpg" alt="">
                 <img class="c-hide" src="img/assorted-art/Modeling/1.jpg" alt="">
                 <img class="c-hide" src="img/assorted-art/Modeling/2.jpg" alt="">
