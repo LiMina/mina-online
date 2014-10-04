@@ -36,33 +36,43 @@ footer ul li {
 	margin: 20px;
 	width: 90px;
 	height: 90px;
-	padding-top: 22px;
+	padding-top: 30px;
 	vertical-align: bottom;
 }
 
 footer ul li div {
-	width: 70px;
+	width: 90px;
 	margin-right:auto;
 	margin-left: auto;
 	padding-left:0px;
 }
 
 footer ul li:nth-child(1) {
-	background: url(../img/purple-circle-m.png) center top;
-	padding-top:30px;
+	background: rgba(124, 16, 215, 1);
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
 }
 
 footer ul li:nth-child(2) {
-	background: url(../img/blue-circle-m.png) center top;
+	background: rgba(0, 0, 218, 1);
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
 }
 
 footer ul li:nth-child(3) {
-	background: url(../img/green-circle-m.png) center top;
-	padding-top: 30px;
+	background: rgba(16, 146, 16, 1);
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
 }
 
 footer ul li:nth-child(4) {
-	background: url(../img/orange-circle-m.png) center top;
+	background: rgba(239, 131, 0, 1);
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
 }
 
 /* SPLASH PANEL */
@@ -148,4 +158,9 @@ section#code div#qualifications {
 	float:none;
 	text-align: left;
 	width: 100%;
+}
+
+section#art div.pbox img {
+	width: auto;
+	height: 120px;
 }

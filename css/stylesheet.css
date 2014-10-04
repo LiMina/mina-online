@@ -99,28 +99,37 @@ footer ul li {
 	margin: 5px;
 	width: 90px;
 	height: 90px;
+	padding-top: 20px;
 	vertical-align: bottom;
 	overflow: hidden;
 }
 
 footer ul li:nth-child(1) {
-	background: url(../img/purple-circle-m.png) center top;
-	padding-top:30px;
+	background: rgba(124, 16, 215, 1);
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
 }
 
 footer ul li:nth-child(2) {
-	background: url(../img/blue-circle-m.png) center top;
-	padding-top:20px;
+	background: rgba(0, 0, 218, 1);
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
 }
 
 footer ul li:nth-child(3) {
-	background: url(../img/green-circle-m.png) center top;
-	padding-top: 30px;
+	background: rgba(16, 146, 16, 1);
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
 }
 
 footer ul li:nth-child(4) {
-	background: url(../img/orange-circle-m.png) center top;
-	padding-top: 20px;
+	background: rgba(239, 131, 0, 1);
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
 }
 
 /*
@@ -323,8 +332,8 @@ section#art div.pbox {
 }
 
 section#art div.pbox img {
-	height: 250px;
 	width: auto;
+	height: 100px;
 	border: #999 solid 1px;
 }
 

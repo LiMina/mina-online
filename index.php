@@ -72,7 +72,8 @@
 			<h3>Professional:</h3>
 			<strong>Email</strong> - <a href="mailto:li.mina888@berkeley.edu" target=_blank>li.mina888@berkeley.edu</a><br />
 			<strong>Phone</strong> - <a href="tel:7817715366" target=_blank>781-771-5366</a><br />
-			<strong>LinkedIn</strong> - <a href="http://www.linkedin.com/in/limina" target=_blank>Mina Li</a><br><br>
+			<strong>LinkedIn</strong> - <a href="http://www.linkedin.com/in/limina" target=_blank>Mina Li</a><br />
+			<strong>InternMatch</strong> - <a href="http://profiles.internmatch.com/users/209310" target=_blank>Mina Li</a><br /><br />
 			<h3>Personal Life:</h3>
 			<strong>Tumblr</strong> - <a href="http://beautyinyourlines.tumblr.com/" target=_blank>Beauty in Your Lines</a><br>
 			<div id="zen">
@@ -146,10 +147,10 @@
 
 	<footer>
 		<ul>
-			<li class="pulse" style="height:125px;"><a href="#about-me"><div>About me</div></a></li>
-			<li class="pulse" style="height:125px;"><a href="#contact-me"><div>Contact me</div></a></li>
-			<li class="pulse" style="height:125px;"><a href="#code"><div>Code</div></a></li>
-			<li class="pulse" style="height:125px;"><a href="#art"><div>Assorted art</div></a></li>
+			<li class="pulse"><a href="#about-me"><div>About me</div></a></li>
+			<li class="pulse"><a href="#contact-me"><div>Contact me</div></a></li>
+			<li class="pulse"><a href="#code"><div>Code</div></a></li>
+			<li class="pulse"><a href="#art"><div>Assorted art</div></a></li>
 		</ul>
 		<div id="home"><a class="home" href="#home">Home.</a></div>
 	</footer>
