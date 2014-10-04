@@ -46,9 +46,8 @@
 				Hello! Welcome to my newly re-designed website.<br /><br />
 				A number of sections have been redone or collapsed together, but regardless, I hope you enjoy your stay.
 				Do let me know if you see any issues with the webiste, and I'll fix it as soon as I can.
-				<br /><br />
-				So who am I?
-				<br /><br />
+				<br /><br /><br />
+				<h4>Who am I?</h4>
 				My name is Mina Li. I am a third-year Computer Science major in Unversity of California, Berkeley, and am planning on graduating May 2015.
 				Time passed a lot more quickly than I ever thought it would, and now I'm looking for a full-time position starting in the summer.
 				<br /><br />
@@ -57,6 +56,11 @@
 				<br /><br />
 				That being said, I still don't know exactly what I want to do, but I'm open-minded and like to try new things, so 
 				I'll probably keep trying out whatever opportunities come my way until I figure it out.
+				<br /><br /><br />
+				<h4>Academic and Professional Life</h4>
+				UC Berkeley: <a href="php/coursework.php">Coursework</a><br />
+				Resume: <a href="files/MINA_LI-RESUME.pdf" target=_blank>PDF</a><br />
+				News: <a href="php/news.php">Articles</a><br />
 			</div>
 			<div id="face">
 				<img src="img/about-me/face-crop-s.jpg"/>
