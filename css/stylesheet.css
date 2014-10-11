@@ -294,6 +294,10 @@ div#me-subpage div.class-title {
 	font-weight: bold;
 }
 
+div#me-subpage div.class-title:hover {
+	cursor: pointer;
+}
+
 div#me-subpage div#class-toggle {
 	cursor: pointer;
 	color: rgb(174, 126, 215);
@@ -325,6 +329,30 @@ div#me-subpage div#floater {
 	-moz-border-radius: 20px;
 	-webkit-border-radius: 20px;
 	border-radius: 20px;
+}
+
+div#me-subpage div.description {
+	display: none;
+	position: fixed;
+	top: 200px;
+	right: 50px;
+	margin-right: 100px;
+	padding: 15px;
+	background-color: rgba(174, 126, 215, 0.4);
+	width: 33%;
+	max-width: 500px;
+	height: auto;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+}
+
+div#me-subpage div.description::after {
+	content: "~* click to close *~";
+	cursor: pointer;
+	float: right;
+	text-align: right;
+	color: black;
 }
 
 /* contact me */

@@ -48,7 +48,7 @@
 				Do let me know if you see any issues with the webiste, and I'll fix it as soon as I can.
 				<br /><br /><br />
 				<h4>Who am I?</h4>
-				My name is Mina Li. I am a third-year Computer Science major in Unversity of California, Berkeley, and am planning on graduating May 2015.
+				My name is Mina Li. I am a third-year Computer Science major in University of California, Berkeley, and am planning on graduating May 2015.
 				Time passed a lot more quickly than I ever thought it would, and now I'm looking for a full-time position starting in the summer.
 				<br /><br />
 				Primarily, I'm interested in doing work that is personally and socially meaningful. I think technology has a great capabilities for changing 
@@ -107,7 +107,7 @@
 					<li>Javascript/JQuery</li>
 					<li>PHP</li>
 					<li>MIPS</li>
-					<li>Ida (specifically in <a href="http://www-inst.eecs.berkeley.edu/~cs61c/sp14/projs/04/manual.html">this project</a>)</li>
+					<li>Ida (specifically in <a href="http://www-inst.eecs.berkeley.edu/~cs61c/sp14/projs/04/manual.html" target=_blank>this project</a>)</li>
 					<li>MySQL</li>
 					<li>RoR</li>
 				</ul>

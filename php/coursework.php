@@ -18,7 +18,8 @@
 	This is the coursework I've taken during my years as a student in UC Berkeley. <br /><br />
 
 	<div id="floater">
-		You can hide all the courses not related to my major by clicking <div id="class-toggle">here</div>.
+		Click any of the course titles to open up a description. <br />
+		You can toggle the courses not related to my major by clicking <div id="class-toggle">here</div>.
 	</div>
 	
 	<h4>Year Three</h4>
@@ -27,9 +28,11 @@
 	<div class="relevant">
 		<div class="class-title">Musical Applications of Computers and Related Technologies</div>
 		Music 158 | Ilya Y Rostovtsev<br /><br />
+		<div class="description">This class is, for all intents and purposes, a computer music class. We worked with Max/MSP, which allowed us to play with frequencies and filters, and manipulating them with the mouse, keyboard, and Arduino Esploras.<br /></div>
 
 		<div class="class-title">Efficient Algorithms and Intractable Problems</div>
 		Computer Science 170 |  David Wagner<br /><br />
+		<div class="description">Filler.<br /></div>
 
 		<div class="class-title">Computer Security</div>
 		Computer Science 161 | Doug Tygar<br /><br />
