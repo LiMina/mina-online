@@ -96,6 +96,10 @@
 				Unfortunately, most of my repositories are private because they're used for work purposes, but you can see 
 				this website on there.
 				<br /><br />
+                <h3>Hard Mode 101</h3>
+                This is a game I made with Austin Shyu, Calvin Lu, and Tracy Lee for <a href="http://qgcon.com/" target=_blank>QGCon 2014</a>. <br />
+                Play the game <a href="hard_mode_101/web%201080x720.html" target=_blank>here</a>.
+                <br /><br />
 				<h3>Languages</h3>
 				Here is a listing of languages I know, have worked with, and dabbled with.
 				<ul>
